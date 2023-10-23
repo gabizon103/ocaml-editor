@@ -1,0 +1,17 @@
+First, make sure you have dune and install necessary OPAM packages:
+    $ opam install dune
+    $ opam install ANSITerminal
+    $ opam install curses
+        NOTE: if you get errors about dependencies with pkg-config, try:
+        $ sudo apt-get update -y
+        $ sudo apt-get install -y pkg-config
+        Then, try installing curses again
+    $ opam install terminal_size 
+    $ opam install ounit2
+    $ opam install odoc 
+
+To enter the editor interface, enter:
+    $ make main
+
+For information about using the editor, enter: 
+    > help

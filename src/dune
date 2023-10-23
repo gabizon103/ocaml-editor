@@ -1,0 +1,4 @@
+(library
+ (name editor)
+ (public_name Editor)
+ (libraries terminal_size unix ANSITerminal str))

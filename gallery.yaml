@@ -1,0 +1,26 @@
+---
+# Members of your group.
+group:
+  - name: Ethan Gabion
+    netid: ehg54
+  - name: Logan Kraver
+    netid: ltk32
+  - name: Dylan Lee
+    netid: dl634
+
+# PM
+pm:
+  name: Shashaank Aiyer
+  netid: saa244
+
+publish: true
+title: "OCaml Text Editor"
+git-repo: https://github.coecis.cornell.edu/dl634/3110-final
+demo-video-url: ""
+desc: >
+  Our project is a standard text editor, implemented in OCaml. The user can
+  input commands that allow them to create, read, and write to files. The
+  user has many shortcuts available to them inside our editor that make it
+  easier and more efficient to move around and edit files. Also, they can
+  make use of our editor's various "modes" each of which feature certain
+  functionality tailored to some common use cases. 
